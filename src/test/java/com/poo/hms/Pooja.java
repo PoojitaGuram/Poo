@@ -7,6 +7,7 @@ public class Pooja {
 public void test1()
 {
 	System.out.println("hello");
+	System.out.println("poo");
 }
 	
 }
